@@ -1,2 +1,0 @@
-import mrx
-mrx.Main()
